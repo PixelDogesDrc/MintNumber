@@ -1,2 +1,0 @@
-# MintNumber
-PixelDoges mint process
